@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd bin/
+java com.minesweeper.game.MainGUI
+cd - > /dev/null
