@@ -1,4 +1,5 @@
-Hang man
-========
+Minesweeper
+===========
 
-Here's a small hang man game I'm working on, made with Java and Swing.
+This is just a quick version of Minesweeper I'm making to improve my development
+skills, and learn Java and Swing better.
