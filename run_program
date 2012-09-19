@@ -2,4 +2,5 @@
 
 cd bin/
 java com.minesweeper.Main
+# TODO: Find a cleaner way to get rid of the output of cd -.
 cd - > /dev/null
